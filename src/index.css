@@ -5,6 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('https://static.vecteezy.com/system/resources/previews/025/536/600/non_2x/world-map-flags-countries-background-generative-ai-photo.jpg'); 
+ background-attachment: fixed;
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat;
 }
 
 code {
